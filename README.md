@@ -1,7 +1,6 @@
 # CROP YIELD PREDICTOR🌱
 Yield Prediction in India using Decision Tree Regressor
 This project implements a machine learning model to predict crop yield in India using a Decision Tree Regressor.
-
 Objective:
 
 Develop a model to predict crop yield based on various factors like state, crop type, temperature, and rainfall data.
